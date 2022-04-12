@@ -1,0 +1,3 @@
+/Users/RomanK/Desktop/Рома К/game_snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/RomanK/Desktop/Рома К/game_snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/RomanK/Desktop/Рома К/game_snake/cmake-build-debug/CMakeFiles/game_snake.dir
